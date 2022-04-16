@@ -1,4 +1,4 @@
-#Lazy Mint NFT
+# Lazy Mint NFT
 
 ## Installation 
 1. clone the repo
