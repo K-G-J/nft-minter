@@ -1,10 +1,7 @@
-This is the NFT Minter starter template.
+#Lazy Mint NFT
 
-## Getting Started
-
-Clone or download the repo.
-Navigate into the donwloaded/cloned folder and install the dependencies typing the command
-
-```bash
-npm install
-```
+## Installation 
+1. clone the repo
+2. input your Moralis server credentials into .env.local file
+3. run "npm install"
+4. run "npm run dev"
