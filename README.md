@@ -1,4 +1,4 @@
-# Lazy Mint NFT
+# Lazy Mint NFT https://nft-minter-flax.vercel.app
 
 ## Installation 
 1. clone the repo
