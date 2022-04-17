@@ -64,6 +64,7 @@ export default function UploadForm({ logout, user }) {
                   <a
                     href={raribleUrl}
                     target="_blank"
+                    rel="noopener noreferrer nofollow"
                     className="my-4 text-slate-500 text-lg leading-relaxed font-bold text-center"
                   >
                     {input.nftName}
