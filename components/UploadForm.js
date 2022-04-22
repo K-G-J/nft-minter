@@ -10,6 +10,7 @@ export default function UploadForm({ logout, user }) {
   const [errorMessage, setErrorMessage] = useState(false)
   const [raribleUrl, setRaribleUrl] = useState('')
   const [showModal, setShowModal] = useState(false)
+  // based off of input name
   const [input, setInput] = useState({
     nftName: '',
     description: '',
